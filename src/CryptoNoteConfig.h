@@ -104,7 +104,7 @@ const uint8_t  CURRENT_TRANSACTION_VERSION                   =  TRANSACTION_VERS
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_2                         =  2;
 const uint8_t  BLOCK_MAJOR_VERSION_3                         =  3;
-const uint8_t  BLOCK_MAJOR_VERSION_3                         =  4;
+const uint8_t  BLOCK_MAJOR_VERSION_4                         =  4;
 const uint8_t  BLOCK_MINOR_VERSION_0                         =  0;
 const uint8_t  BLOCK_MINOR_VERSION_1                         =  1;
 
