@@ -39,7 +39,7 @@
 void (*cn_slow_hash_fp)(void *, const void *, size_t, void *, int lite, int variant);
 
 void cn_slow_hash_f(void * a, const void * b, size_t c, void * d, int lite, int variant) {
- (*cn_slow_hash_fp)(a, b, c, d, lite, variant);
+    (*cn_slow_hash_fp)(a, b, c, d, lite, variant);
 }
 
 #if defined(__GNUC__)
